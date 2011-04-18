@@ -4,4 +4,8 @@ Seth, Checking in!
 
 This was added on a branch.
 
+<<<<<<< HEAD
 This was added from aux-branch.
+=======
+This is from An Extra Branch.
+>>>>>>> an-extra-branch
